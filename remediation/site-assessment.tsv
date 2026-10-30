@@ -1,0 +1,5 @@
+site_id	district	site_name	accepted_inspections	accessible	ramp_short	door_heavy	combined_barrier	first_barrier_at	latest_accepted_at	status
+CED-01	Coast	Harbor Hall	2	1	1	0	0	2026-03-03T09:30:00Z	2026-03-03T09:30:00Z	REMEDIATION_REQUIRED
+CED-02	Metro	Juniper Library	3	1	0	1	1	2026-03-01T11:00:00Z	2026-03-11T08:00:00Z	REMEDIATION_REQUIRED
+CED-03	Metro	Orchard Clinic	1	0	0	1	0	2026-03-09T08:00:00Z	2026-03-09T08:00:00Z	REMEDIATION_REQUIRED
+CED-04	Upland	Ridge Park	0	0	0	0	0	-	-	NO_VALID_INSPECTION
