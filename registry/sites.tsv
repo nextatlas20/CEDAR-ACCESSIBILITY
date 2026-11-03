@@ -1,0 +1,5 @@
+site_id	district	site_name	minimum_ramp_cm	maximum_door_force_n
+CED-01	Coast	Harbor Hall	110	35
+CED-02	Metro	Juniper Library	105	30
+CED-03	Metro	Orchard Clinic	100	25
+CED-04	Upland	Ridge Park	90	40
